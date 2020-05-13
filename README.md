@@ -1,2 +1,2 @@
 # Calculator
-Calculator built using Java Swing
+Calculator built using Java Swing and AWT
